@@ -20,7 +20,9 @@ Desenvolver uma aplicação de anotações com frontend em Vue.js e backend em R
 ## Curiosidade
 
 Nessa estrutura, ao clicar no botão do aplicativo de anotações, o usuário é direcionado para a segunda tela do fluxo para adicionar uma nova anotação. Após preencher os dados e clicar em "Salvar", o usuário é automaticamente redirecionado para a terceira tela, onde pode visualizar todas as suas anotações. A nota do usuário fica salva em anotações e no indexDB.
-Ao clicar em anotações, o usuário é direcionado para a terceira tela do fluxo, onde pode visualizar todas as anotações criadas. Nesta tela, o usuário tem a opção de criar novas anotações ou deletar anotações existentes. Ao optar por deletar uma anotação, um diálogo de confirmação será apresentado.
+Ao clicar em anotações, o usuário é direcionado para a terceira tela do fluxo, onde pode visualizar todas as anotações criadas. Nesta tela, o usuário tem a opção de criar novas anotações ou deletar anotações existentes. Ao optar por deletar uma anotação, um diálogo de confirmação será apresentado.![aplicacao-de-anotacoes](https://github.com/RafaelZucarelli/APLICACAO-DE-ANOTACOES/assets/102884061/32963845-1472-4190-8553-3e8df95a0acf)
+![aplicacao-de-anotacoes](https://github.com/RafaelZucarelli/APLICACAO-DE-ANOTACOES/assets/102884061/d6e34684-847e-4703-8d41-966f67353d05)
+
 
 ## Tecnologias
 
